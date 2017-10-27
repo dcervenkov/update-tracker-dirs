@@ -1,0 +1,8 @@
+[Recursive]
+
+$HOME/foobar
+
+[Single]
+
+$HOME/foo/bar
+$HOME/bar/bar
